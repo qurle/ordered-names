@@ -1,0 +1,14 @@
+{
+  "name": "ordered-numbers",
+  "version": "1.0.0",
+  "description": "rename layers to ordered numbers",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Nick Qurle",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.54.1"
+  }
+}
